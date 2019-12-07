@@ -17,13 +17,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: melanymero7@gmail.com
-  facebook:   https://www.facebook.com/melany.mero.9
-  github: barryclark/jekyll-now
-  instagram:    https://www.instagram.com/melany14.mero/?hl=es-la
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter:   https://twitter.com/15Melanymero
+  email:   [melanymero7@gmail.com]
+  facebook:   [https://www.facebook.com/melany.mero.9]
+  instagram:    [https://www.instagram.com/melany14.mero/?hl=es-la]
+  rss:  Androip
+  twitter:   [https://twitter.com/15Melanymero]
   
 
 
